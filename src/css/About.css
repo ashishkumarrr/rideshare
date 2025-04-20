@@ -1,0 +1,28 @@
+/* About.css */
+.about-container {
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(135deg, #ff5733, #ffd700);
+    color: white;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 18px;
+    text-align: left;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+ul li {
+    margin: 10px 0;
+}
